@@ -8,9 +8,14 @@ Sponsored by [Lexis Coatings - Your Roof Reborn](https://lexiscoatings.com)
 ***
 ## Dehumidifier Tray
 This is designed for the EVA Dry Dehumidifier.
-![Dehumidifier Tray 3D](Dehumidifier_Tray_3D.png)
+![Dehumidifier Tray 3D](Dehumidifier_Tray.png)
 
 ***
 ## File Box Spool Holders
 There is 3.23" between the bearings so most 1kg spools, 8" in diameter will fit just fine. The only exception I've seen would be the old style spools that are 3.5" wide and 6.25" in diameter.
 ![File Box Spool Holders](File_Box_Spool_Holders.png)
+
+***
+## Spool Rollers
+You can use 8mm alumimum pipe instead of 3D printing these rollers. These fit snugly into the bearings and shafts are larger in the middle so they will stay in place during use.
+![Spool Rollers](Spool_Rollers.png)
